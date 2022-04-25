@@ -8,6 +8,7 @@ const description = 'Astro-Ink is a crisp, minimal, personal blog theme for Astr
 
 const posts = Astro.fetchContent('./blog/*.md')
 ---
+
 <DefaultPageLayout content={{ title, description }} showPageHeader={false}>
     <PostPreviewList posts={posts} />
     <div class="page__actions">

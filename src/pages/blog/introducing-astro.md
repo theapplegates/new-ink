@@ -11,6 +11,8 @@ tags:
 - jam-stack
 description: There's a simple secret to building a faster website — just ship less.
 ---
+![a tree](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/another-tree.jpg)
+
 
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
 
